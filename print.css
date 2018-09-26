@@ -1,0 +1,17 @@
+.noprint { display:none }
+img.menubar { display:none }
+img.titlebanner { display:none }
+img.printbanner { margin:0px; width:760px; height:75px; border:0px; display:inline }
+td.body { padding-left:0px; padding-right:0px; background:none }
+p.storebanner { display:none }
+.navbar { display:none }
+table.indicators { margin-top:-18px; _margin-top:-13px }
+.indicator { font-style:italic }
+.definition { text-decoration:underline }
+table.grid { display:none }
+img.screen_grid { display:none }
+img.print_grid { margin:0px; border:0px; margin-left:auto; margin-right:auto; display:inline }
+.facebook { display:none }
+th.booklist { background-color:none; color:#000000 }
+hr { display:none }
+td.footer { border-top-style:solid; border-top-width:1px; margin-top:30px; _margin-top:35px; background:none }
